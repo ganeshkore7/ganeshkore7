@@ -15,7 +15,7 @@ I'm a self-driven developer with a strong interest in building web applications 
 ## 🛠️ Tech Stack
 
 - **Frontend**: <img src="https://cdn.simpleicons.org/react/61DAFB" height="10"/>React.js, <img src="https://cdn.simpleicons.org/html5/E34F26" height="10"/>HTML,
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="10"/>CSS, <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="10"/>JavaScript, Tailwind CSS
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="20"/>CSS, <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="10"/>JavaScript, Tailwind CSS
 - **Backend**: <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="10"/>Node.js,<img src="https://cdn.simpleicons.org/express/999999" height="10"/>Express.js, Next.js 
 - **Database**: <img src="https://cdn.simpleicons.org/mongodb/47A248" height="10"/>MongoDB, MySQL 
 - **Other**: Git, GitHub, REST APIs, Postman

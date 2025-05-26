@@ -14,12 +14,31 @@ I'm a self-driven developer with a strong interest in building web applications 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: <img src="https://cdn.simpleicons.org/react/61DAFB" height="18"/>React.js, <img src="https://cdn.simpleicons.org/html5/E34F26" height="18"/>HTML,
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="18"/>CSS, <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="18"/>JavaScript, Tailwind CSS
-- **Backend**: <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18"/>Node.js,<img src="https://cdn.simpleicons.org/express/999999" height="18"/>Express.js, Next.js 
-- **Database**: <img src="https://cdn.simpleicons.org/mongodb/47A248" height="18"/>MongoDB, MySQL 
-- **Other**: Git, GitHub, REST APIs, Postman
-- **Tools & Platforms**: VS Code
+🛠️ Tech Stack
+Frontend:
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="18"/> React.js,
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="18"/> HTML,
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="18"/> CSS,
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="18"/> JavaScript,
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="18"/> Tailwind CSS
+
+Backend:
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="18"/> Node.js,
+<img src="https://cdn.simpleicons.org/express/000000" height="18"/> Express.js,
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="18"/> Next.js
+
+Database:
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="18"/> MongoDB,
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="18"/> MySQL
+
+Other:
+<img src="https://cdn.simpleicons.org/git/F05032" height="18"/> Git,
+<img src="https://cdn.simpleicons.org/github/181717" height="18"/> GitHub,
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="18"/> Postman,
+REST APIs
+
+Tools & Platforms:
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="18"/> VS Code
 
 ---
 

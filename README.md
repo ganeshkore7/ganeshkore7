@@ -33,7 +33,7 @@ Database:
 
 Other:
 <img src="https://cdn.simpleicons.org/git/F05032" height="18"/> Git,
-<img src="https://cdn.simpleicons.org/github/181717" height="18"/> GitHub,
+<img src="https://cdn.simpleicons.org/github/000000" height="18"/> GitHub,
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="18"/> Postman,
 REST APIs
 
